@@ -12,5 +12,9 @@
         <page name='operators'/>
         <page name='for_loops'/>
         <page name='optionals'/>
+        <page name='class_self'/>
+        <page name='class_Inheritance'/>
+        <page name='struct'/>
+        <page name='extension'/>
     </pages>
 </playground>
